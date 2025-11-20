@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kai_photo_202508.png"
+  avatar           : "./images/kai_photo_202508.png"
   name             : "Kai Yang"
   pronouns         : # example: "she/her"  
   bio              : "AI4Materials"
